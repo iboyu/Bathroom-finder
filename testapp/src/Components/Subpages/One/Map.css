@@ -1,0 +1,8 @@
+.labelPosition {
+    font-size: 12px !important;
+    background: rgba(243, 245, 243, 0.505) !important;
+    padding: 5px;
+    border-radius: 100px;
+    /* margin-bottom: 15px; */
+    font-weight: bold;
+}

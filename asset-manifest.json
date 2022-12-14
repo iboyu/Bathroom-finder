@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CS321Project/static/css/main.a0592096.css",
+    "main.js": "/CS321Project/static/js/main.a87fe95e.js",
+    "static/js/529.e9bb0431.chunk.js": "/CS321Project/static/js/529.e9bb0431.chunk.js",
+    "index.html": "/CS321Project/index.html",
+    "main.a0592096.css.map": "/CS321Project/static/css/main.a0592096.css.map",
+    "main.a87fe95e.js.map": "/CS321Project/static/js/main.a87fe95e.js.map",
+    "529.e9bb0431.chunk.js.map": "/CS321Project/static/js/529.e9bb0431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0592096.css",
+    "static/js/main.a87fe95e.js"
+  ]
+}
